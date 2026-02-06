@@ -2,8 +2,7 @@
   "buildCommand": "pnpm build",
   "outputDirectory": "dist",
   "framework": "other",
-  "nodeVersion": "20.x",
-  "serverless": {
+   "serverless": {
     "memory": 1024,
     "maxDuration": 60
   }
