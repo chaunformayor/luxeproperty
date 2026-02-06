@@ -2,8 +2,6 @@
   "buildCommand": "pnpm build",
   "outputDirectory": "dist",
   "framework": "other",
-   "serverless": {
-    "memory": 1024,
     "maxDuration": 60
   }
 }
